@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/UIC_Tree_Assignment.dir/main.cpp.o CMakeFiles/UIC_Tree_Assignment.dir/src/Tree.cpp.o  -o UIC_Tree_Assignment 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anton_sebastian/CLionProjects/UIC-Tree-Assignment/include/Tree.h
+string
+-
+vector
+-
+algorithm
+-
+
+/Users/anton_sebastian/CLionProjects/UIC-Tree-Assignment/src/Tree.cpp
+stdexcept
+-
+string
+-
+iostream
+-
+../include/Tree.h
+/Users/anton_sebastian/CLionProjects/UIC-Tree-Assignment/include/Tree.h
+
